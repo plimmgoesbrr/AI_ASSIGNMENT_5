@@ -1,8 +1,3 @@
-# AI Programming Assignment — Submission
-
-**Student:** Karthik
-**Course:** Artificial Intelligence
-**Institution:** Mahindra University, Hyderabad
 
 This submission contains complete, self-contained implementations of all
 four problems in the programming assignment. Every program prints its
@@ -193,10 +188,3 @@ Every script ends with a clean `All ... tests PASSED.` line if
 successful.
 
 ---
-
-## Expected output (summary)
-
-- **Q1** — All twelve search-algorithm tests pass. Performance table at the end shows alpha-beta pruning saves >97% of the work vs. full minimax.
-- **Q2** — Three full travel-plan reports for three different user profiles.
-- **Q3** — `knowledge_graph.png` is written into `q3_knowledge_graphs/`, all five queries succeed, inferred triples include `Charminar locatedIn India`.
-- **Q4** — All five Bayesian-Network queries pass; diagnostic query matches the AIMA value of 0.2842 to four decimal places.
